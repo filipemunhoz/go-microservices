@@ -8,6 +8,19 @@ This is microservices written in ***go***.
 
 This content was based on this [tutorial](https://www.youtube.com/watch?v=VzBGi_n65iU&ab_channel=NicJackson)
 
+We should explore methods like:
+
+1. GET
+2. POST
+3. PUT
+
+## Topics
+
+- [ ] `requests`: 
+  - [X] `curl`: choose your favorite tool to test
+  - [ ] `postman`
+
+
 ## SWAGGER - Docs
 ```
 make
